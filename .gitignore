@@ -1,0 +1,34 @@
+# Python Virtual Environments
+.venv/
+venv/
+env/
+
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# PyTorch Checkpoints and Weights
+*.pth
+*.pt
+*.ckpt
+
+# Datasets and Large Archives
+archive.zip
+Rice_Leaf_AUG/
+*.tfrecord
+*.h5
+
+# OS generated files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Output Graphs (Optional, uncomment if you don't want graphs pushed to github)
+# *.png
+# *.jpg
+# *.jpeg
+
+# Executables
+*.msi
+*.exe
