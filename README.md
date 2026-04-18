@@ -1,4 +1,4 @@
-# Rice Leaf Disease Classification (IEEE Conference Paper)
+# Rice Leaf Disease Classification ( Conference Paper)
 
 This repository contains the official PyTorch implementation and dataset expansion tools for our IEEE conference research on **Rice Leaf Disease Classification using ResNet-50 and CutMix Augmentation**. 
 
